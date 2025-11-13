@@ -21,7 +21,6 @@ venv.bak/
 
 # Environment variables
 .env
-.env.*
 
 # Data storage
 data/*
